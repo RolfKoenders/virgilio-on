@@ -1,0 +1,21 @@
+{
+  "name": "virgilio-on",
+  "version": "0.1.0",
+  "description": "Event-driven actions",
+  "author": "Rolf Koenders <rolfkoenders@gmail.com>",
+  "homepage": "https://github.com/RolfKoenders/virgilio-on",
+  "main": "lib/virgilio-on.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolfKoenders/virgilio-on.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RolfKoenders/virgilio-on/issues"
+  },
+  "keywords": [
+    "virgilio"
+  ],
+  "devDependencies": {
+    "virgilio": "^0.12.5"
+  }
+}
