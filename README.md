@@ -1,7 +1,7 @@
 
 # Virgilio-on
 
-Event-driven actions.
+Event-driven actions for [virgilio](https://github.com/icemobilelab/virgilio/)
 
 ## Usage
 
