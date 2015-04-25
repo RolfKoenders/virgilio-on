@@ -10,7 +10,7 @@ Lets say we have a blinkLight and sendPush action on our Doorbell namespace.
 ```javascript
 var Doorbell = virgilio.namespace$('modules.doorbell');
 Doorbell.defineAction$(function blinkLight() {
-	console.log('Send RING RING push message to device');
+	console.log('Blink HUE light');
 	// return Utils.push.send(...).then(func..{});
 });
 Doorbell.defineAction$(function sendPush() {
