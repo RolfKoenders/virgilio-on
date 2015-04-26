@@ -16,6 +16,10 @@
     "virgilio"
   ],
   "devDependencies": {
-    "virgilio": "^0.12.5"
+    "virgilio": "^0.12.5",
+    "gulp": "^3.8.7",
+    "gulp-mocha": "^1.0.0",
+    "mocha": "^1.18.2",
+    "must": "^0.12.0"
   }
 }
