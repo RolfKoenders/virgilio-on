@@ -1,6 +1,8 @@
 
 # Virgilio-on
 
+[![npm version](https://badge.fury.io/js/virgilio-on.svg)](http://badge.fury.io/js/virgilio-on)
+
 Event-driven actions for [virgilio](https://github.com/icemobilelab/virgilio/)
 
 ## Usage
